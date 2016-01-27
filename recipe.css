@@ -23,6 +23,7 @@ p {
 	}
 ul {
 	font-family: "Georgia, Garamond";
+	list-style-image: url('https://webster.cs.washington.edu/images/pie-icon.gif');
 	font-size: 11px;
     color: #404040;
 	}
