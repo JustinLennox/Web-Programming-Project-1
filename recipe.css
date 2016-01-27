@@ -1,6 +1,6 @@
 <style>
 body {
-	background-color: white;
+	background-image: url('https://webster.cs.washington.edu/images/silverware.jpg');
 	}
 h1 {
 	color: #A4A400;
@@ -39,8 +39,14 @@ ol {
 	}
 a {
     color: #A4A400;
-  }
+	}
 .copyright p{
     font-family: monospace;
-}
+	}
+.twoSpace {
+	text-indent: 10px;
+	}
+.fourSpace {
+	text-indent: 20px;
+	}
 </style>
