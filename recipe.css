@@ -1,4 +1,7 @@
 <style>
+* {
+	background-image: url('https://webster.cs.washington.edu/images/silverware.jpg');
+	}
 body {
 	background-image: url('https://webster.cs.washington.edu/images/silverware.jpg');
 	}
@@ -23,6 +26,7 @@ p {
 	}
 .userComments {
 	margin-left: 30px;
+	margin-right: 30px;
 	font-style: italic;
 	background-color: yellow;
 	}
