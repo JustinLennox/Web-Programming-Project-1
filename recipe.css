@@ -12,7 +12,8 @@ h1 {
 	color: #A4A400;
 	text-align: center;
 	font-family: "Lucida Sans Unicode";
-	font-size: 22px;	
+	font-size: 22px;
+	letter-spacing: 0.25em;
 	}
 	
 h1 span {
@@ -26,6 +27,7 @@ h2 {
 	font-family: "Lucida Sans Unicode";
 	font-size: 18px;
 	display: inline-block;
+	letter-spacing: 0.25em;
 	}
 p {
 	font-family: "Georgia, Garamond";
