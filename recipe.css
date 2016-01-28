@@ -1,3 +1,10 @@
+/*
+	recipe.css
+	Authors: Kyler Collins, Justin Lennox, Neal Raines, Neal Thacker
+	Description: Contains the formatting for pie.html.  Implements
+	background-images, colors, fonts, and margins to correctly
+	outline what pie.html should look like.
+*/
 <style>
 *{
 	background-image: url('https://webster.cs.washington.edu/images/silverware.jpg');
