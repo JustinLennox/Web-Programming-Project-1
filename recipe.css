@@ -44,6 +44,11 @@ p {
 	font-size: 11px;
     color: #404040;
 	}
+	
+.noNumber {
+	list-style-type: none;
+}
+
 .userComments {
 	margin-left: 30px;
 	margin-right: 30px;
