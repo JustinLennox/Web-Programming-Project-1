@@ -1,9 +1,12 @@
 <style>
-* {
+*{
 	background-image: url('https://webster.cs.washington.edu/images/silverware.jpg');
 	}
-body {
+body{
 	background-image: url('https://webster.cs.washington.edu/images/silverware.jpg');
+	}
+img {
+	display: block;
 	}
 h1 {
 	color: #A4A400;
@@ -11,6 +14,8 @@ h1 {
 	background-color: #F0F0F0;
 	font-family: "Lucida Sans Unicode";
 	font-size: 22px;
+	display: inline-block;
+	float: center;
 	}
 h2 {
 	color: #A4A400;
@@ -18,6 +23,7 @@ h2 {
 	background-color: #F0F0F0;
 	font-family: "Lucida Sans Unicode";
 	font-size: 18px;
+	display: inline-block;
 	}
 p {
 	font-family: "Georgia, Garamond";
