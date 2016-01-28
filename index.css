@@ -1,3 +1,9 @@
+/*
+	index.css
+	Authors: Kyler Collins, Justin Lennox, Neal Raines, Neal Thacker
+	Description: Contains the formatting for index.html.  Implements
+	the same features as recipe.css.
+*/
 <style>
 * {
 	background-image: url('https://webster.cs.washington.edu/images/silverware.jpg');
