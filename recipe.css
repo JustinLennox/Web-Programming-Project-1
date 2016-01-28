@@ -11,12 +11,14 @@ img {
 h1 {
 	color: #A4A400;
 	text-align: center;
-	background-color: #F0F0F0;
 	font-family: "Lucida Sans Unicode";
-	font-size: 22px;
-	display: inline-block;
-	float: center;
+	font-size: 22px;	
 	}
+	
+h1 span {
+	background-color: #F0F0F0;
+}	
+	
 h2 {
 	color: #A4A400;
 	text-align: left;
