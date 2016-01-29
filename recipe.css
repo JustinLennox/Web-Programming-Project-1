@@ -5,10 +5,6 @@
 	background-images, colors, fonts, and margins to correctly
 	outline what pie.html should look like.
 */
-<style>
-*{
-	background-image: url('https://webster.cs.washington.edu/images/silverware.jpg');
-	}
 body{
 	background-image: url('https://webster.cs.washington.edu/images/silverware.jpg');
 	}
@@ -78,4 +74,3 @@ a {
 .fourSpace {
 	text-indent: 20px;
 	}
-</style>
