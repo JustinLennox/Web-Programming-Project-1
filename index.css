@@ -4,10 +4,6 @@
 	Description: Contains the formatting for index.html.  Implements
 	the same features as recipe.css.
 */
-<style>
-* {
-	background-image: url('https://webster.cs.washington.edu/images/silverware.jpg');
-	}
 body {
 	background-image: url('https://webster.cs.washington.edu/images/silverware.jpg');
 	}
@@ -35,4 +31,3 @@ a {
 .copyright p{
     font-family: monospace;
 }
-</style>
